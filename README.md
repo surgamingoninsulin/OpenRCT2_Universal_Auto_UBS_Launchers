@@ -5,7 +5,7 @@
   
 </div>
 
-Cross-platform portable launchers (VBS/Bash) for OpenRCT2 on Windows, macOS, and Linux. Features an event-driven silent trigger for Windows and plug-and-play paths for macOS/Linux to keep configurations, plugins, saves, and legal original game files 100% self-contained on your USB drive.
+Cross-platform portable launchers (VBS/Bash) for OpenRCT2 on Windows, macOS, and Linux. Features an event-driven silent trigger for Windows and plug-and-play paths for macOS/Linux to keep configurations, plugins, saves, and legal original game files 100% self-contained on your USB drive. under MIT License!
 
 ---
 
@@ -104,3 +104,8 @@ As detailed in `image_6cf66a.png`, your portable initialization files will auto-
 rct1_path = "data\\rct1"
 game_path = "data\\rct2"
 ```
+
+## Downloads
+Downloading can be done at 
+- [Releases](https://github.com/surgamingoninsulin/OpenRCT2_Universal_Auto_UBS_Launchers/releases/tag/v1.0.0)
+- or copy the source code!
