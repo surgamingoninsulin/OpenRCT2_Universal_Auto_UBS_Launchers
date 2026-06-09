@@ -9,6 +9,36 @@ Cross-platform portable launcher and installer generator for **OpenRCT2** on **W
 
 This project now uses a small Python generator:
 
+<hr>
+<div align="center">
+  <h1>RollerCoaster Tycoon 1 Deluxe</h1>
+  <img src="https://dn710201.ca.archive.org/0/items/roller-coaster-tycoon-deluxe/Box1.jpg"  width="200" height="auto">
+  <br><br>
+
+  [RollerCoaster Tycoon 1 Deluxe ISO](https://archive.org/download/roller-coaster-tycoon-deluxe/RollerCoaster%20Tycoon%20Deluxe.iso)
+  
+  [RollerCoaster Tycoon 1 Deluxe TORRENT](https://archive.org/download/roller-coaster-tycoon-deluxe/roller-coaster-tycoon-deluxe_archive.torrent)
+  
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <h1> RollerCoaster Tycoon 2 Tripple Thrill Pack</h1>
+  <img src="https://dn720200.ca.archive.org/0/items/roller-coaster-tycoon-2-triple-thrill-pack/Box1.jpg"  width="200" height="auto">
+  <br><br>
+  
+  [RollerCoaster Tycoon 2 Tripper Thrill Pack ISO](https://archive.org/download/roller-coaster-tycoon-2-triple-thrill-pack/RollerCoaster%20Tycoon%202%20Triple%20Thrill%20Pack.iso)
+  
+  [RollerCoaster Tycoon 2 Tripper Thrill Pack TORRENT](https://archive.org/download/roller-coaster-tycoon-2-triple-thrill-pack/roller-coaster-tycoon-2-triple-thrill-pack_archive.torrent)
+
+</div>
+
+<br>
+<hr>
+<br>
+
 ```text
 generate.py
 ```
@@ -219,7 +249,7 @@ The `data/rct1` and `data/rct2` folders are for your own legally obtained Roller
 
 These files are **not included** in this repository.
 
-This project only provides launcher, installer, updater, and helper scripts. You must provide your own legal retail files.
+This project only provides launcher, installer, updater, and helper scripts. You must provide your own retail files.
 
 ---
 
